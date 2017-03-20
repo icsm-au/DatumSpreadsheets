@@ -7,6 +7,8 @@ ________________________________________________________________________________
 Krueger n-series.xlsx: Geographic to Grid and Grid to Geographic (recommended for working outside beyond a single MGA / UTM zone).
 Krueger lambda series.xlsx: also known as Redfearn's equations. Accurate within a single MGA / UTM zone.
 
+
+
 ___________________________________________________________________________________________
 Ellipsoid Computations
 ___________________________________________________________________________________________
