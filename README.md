@@ -2,14 +2,17 @@
 Excel spreadsheets to assist with data transformation, conversion and geodetic computations
 
 *** Coordinate Transformations ***
+__________________________________
 Transformation_Conversion.xlsx: 7-parameter similarity transformation and coordinate conversion between Cartesian and Geographic coordinate systems.
 
 *** Coordinate Conversions ***
+__________________________________
 Krueger n-series.xlsx: Geographic to Grid and Grid to Geographic (recommended for working outside beyond a single MGA / UTM zone).
 Krueger lambda series.xlsx: also known as Redfearn's equations. Accurate within a single MGA / UTM zone.
 Transformation_Conversion.xlsx: 7-parameter similarity transformation and coordinate conversion between Cartesian and Geographic coordinate systems.
 
 *** Ellipsoid Computations ***
+__________________________________
 Vincentys.xlsx: Direct and Indirect methods to calculate accurate geodetic positions, azimuths and distances on the ellipsoid.
 
 
