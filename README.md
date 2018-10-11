@@ -24,3 +24,11 @@ __________________________________
 // Ellipsoid Computations //
 - Vincentys.xlsx: Direct and Indirect methods to calculate accurate geodetic positions, azimuths and distances on the ellipsoid.
 __________________________________
+
+
+// Grid Calculations //
+- GridCalc_GDA94_NSW.zip: contains GridCalc_GDA94_NSW.xlsm (macro enabled spreadsheet) and GridCalc_GDA94_NSW_UG.pdf (user guide).
+
+  GridCalc_GDA94_NSW.xlsm provides output of various geodetic quantities between two points given input of the MGA94 co-ordinates,
+  AHD values and MGA zone of two points within New South Wales.
+__________________________________
