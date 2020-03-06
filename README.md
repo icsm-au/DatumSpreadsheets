@@ -27,6 +27,11 @@ __________________________________
 
 
 // Grid Calculations //
+- GridCalc_GDA2020_NSW.zip: contains GridCalc_GDA2020_NSW.xlsm (macro enabled spreadsheet) and GridCalc_GDA2020_NSW_UG.pdf (user guide).
+
+  GridCalc_GDA2020_NSW.xlsm provides output of various geodetic quantities between two points given input of the MGA2020 co-ordinates,
+  AHD values and MGA zone of two points within New South Wales.
+  
 - GridCalc_GDA94_NSW.zip: contains GridCalc_GDA94_NSW.xlsm (macro enabled spreadsheet) and GridCalc_GDA94_NSW_UG.pdf (user guide).
 
   GridCalc_GDA94_NSW.xlsm provides output of various geodetic quantities between two points given input of the MGA94 co-ordinates,
