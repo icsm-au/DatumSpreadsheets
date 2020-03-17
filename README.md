@@ -37,3 +37,17 @@ __________________________________
   GridCalc_GDA94_NSW.xlsm provides output of various geodetic quantities between two points given input of the MGA94 co-ordinates,
   AHD values and MGA zone of two points within New South Wales.
 __________________________________
+
+
+// Geodetic Calculations //
+Perform Bulk transformations, projections and geodetic calculations directly in excel.
+    Functions include:
+    Vincenty Redfearn
+    Decimal degrees >> Hours Minutes Seconds, Hours Minutes Seconds >> Decimal Degrees
+    7 Parameter transformations
+    GDA2020 >> GDA94, GDA94 >> GDA2020
+
+- The Geodetic-Calculations-v4.xlsm spreadsheets demonstrates the functions
+- Geodetic-Calculations-v4.xlam the functions demonstrated in Geodetic-Calculations-v4.xlsm are available as an excel add-in. This can  be referenced to excel and the functions can then be used in any excel spreadsheet.
+- Geodetic-Calculations.bas Contains the vba code that can be imported into any project.
+__________________________________
